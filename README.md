@@ -17,6 +17,5 @@ I'm a tech enthusiast who loves building things from scratch. Recently, I challe
 *   **Web:** HTML, CSS, JavaScript
 
 ---
-*“It's not about having a powerful laptop, it's about having the curiosity to figure it out.”*
 
-Also I have some interesting projects about data analysis from CERN and some more practical with vanilla panda analysis.
+Also I have some interesting projects about data analysis with ALICE, CERN during my Ph.D. and more practical data analysis personal projects.

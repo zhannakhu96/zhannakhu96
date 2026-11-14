@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-### Hi there, I'm Zhanna! 👋
+### Hello. My name is Zhanna.
 
 I'm a tech enthusiast who loves building things from scratch. Recently, I challenged myself to learn Cloud Engineering and Infrastructure as Code (IaC) entirely from my mobile phone. 📱
 
